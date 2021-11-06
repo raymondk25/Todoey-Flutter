@@ -1,4 +1,4 @@
-# todoey_flutter
+# TODOey
 
 
 ## About App
